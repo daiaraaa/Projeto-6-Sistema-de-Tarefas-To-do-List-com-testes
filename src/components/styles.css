@@ -39,4 +39,6 @@ input {
     margin: 10px auto;
     border: 1px solid #505050;
     border-radius: 5px;
+    border-color: black;
+}
 }
